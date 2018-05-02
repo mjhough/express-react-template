@@ -4,8 +4,8 @@
   "main": "index.js",
   "repository": "...",
   "author": "Matt Hough <matt@hough.tv>",
-  "license": "N/A",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "@material-ui/icons": "^1.0.0-beta.43",
     "babel-cli": "^6.26.0",
